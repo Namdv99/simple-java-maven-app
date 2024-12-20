@@ -23,7 +23,7 @@ pipeline {
         }   
         stage('Dev') {
             steps {
-                echo "This is DEV"
+                echo "This is STG"
             }
         }          
     }
