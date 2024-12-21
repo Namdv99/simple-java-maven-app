@@ -26,3 +26,4 @@ set -x
 java -jar target/${NAME}-${VERSION}.jar
 
 echo "This is test by Dang Van Nam."
+echo "git config --local credential.helper store"
